@@ -34,7 +34,11 @@
 		<section id="miTabla">
 		</section>
 		<h1>Hola mundo</h1>
+<<<<<<< HEAD
 		<h2>1Hola amigo</h2>
+=======
+		<h2>Hola amigo1</h2>
+>>>>>>> rama1
 		<footer>
 		</footer>
 	</body>
