@@ -34,7 +34,7 @@
 		<section id="miTabla">
 		</section>
 		<h1>Hola mundo</h1>
-		<h2>Hola amigo</h2>
+		<h2>1Hola amigo</h2>
 		<footer>
 		</footer>
 	</body>
