@@ -33,7 +33,7 @@
 
 		<section id="miTabla">
 		</section>
-		<h1>Hola mundo22</h1>
+		<h1>Hola mundo2233</h1>
 		<h2>Hola amigo12</h2>
 		<footer>
 		</footer>
